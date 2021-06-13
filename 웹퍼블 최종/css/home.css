@@ -90,7 +90,7 @@
 			background: rgba(255,255,255,0.5);
 			position: fixed;
 			top: 0;
-			right: -300px;
+			right: -500px;
 			z-index: -1;
 			transition: all .35s;
 		}
@@ -199,7 +199,6 @@
 			font-family: 'Nanum Myeongjo', serif;
 			text-align: center;
 			padding-top: 20vw;
-
 		}
 		.animation li:hover{
 			flex: 1.4;
